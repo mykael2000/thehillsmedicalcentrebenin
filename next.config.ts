@@ -1,11 +1,13 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export', // Static export for cPanel
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  output: 'export',
+  basePath: '/myapp',  // Add your subfolder here
+  assetPrefix: '/myapp',
   images: {
     unoptimized: true,
   },
-  basePath: '', // Add '/subfolder' if not in root
   trailingSlash: true,
-}
+};
 
-module. exports = nextConfig
+export default nextConfig;
