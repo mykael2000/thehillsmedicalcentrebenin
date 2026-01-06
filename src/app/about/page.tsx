@@ -29,7 +29,7 @@ export default function About() {
           <div className="mt-16 sm:mt-10 flex justify-center">
             <div className="relative rounded-2xl overflow-hidden" style={{ maxWidth: '896px'}}>
               <img
-                src="/assets/aboutBG.jpg"
+                src="/assets/image2.jpeg"
                 alt="Hills medical consulting team"
                 className="w-full h-[539px] object-cover"
                 onError={(e) => {
@@ -51,8 +51,8 @@ export default function About() {
               <div className="hidden sm:block relative overflow-hidden rounded-2xl w-full lg:max-w-[448px] h-64 sm:h-72 lg:h-[361px]">
                 <video
                   className="absolute inset-0 w-full h-full object-cover"
-                  src="/assets/aboutsidevid.mp4"
-                  poster="/assets/hospital-front.jpg"
+                  src="/assets/hero.mp4"
+                  poster="/assets/image1.jpeg"
                   autoPlay
                   muted
                   loop
