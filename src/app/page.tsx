@@ -335,7 +335,7 @@ export default function Home() {
             <div className="relative h-full">
               <div className="h-full min-h-[600px] bg-gray-800 rounded-2xl overflow-hidden">
                 <img 
-                  src="/assets/hospital-interior.jpg" 
+                  src="/assets/image2.jpeg" 
                   alt="Professional working at desk with computer"
                   className="w-full h-full object-cover"
                 />
@@ -413,7 +413,7 @@ export default function Home() {
             <div className="bg-white rounded-lg shadow-sm border border-gray-100 overflow-hidden">
               <div className="aspect-[4/3] relative overflow-hidden">
                 <img 
-                  src="/assets/comprehensive-health-check.jpg" 
+                  src="/assets/image5.jpeg" 
                   alt="Comprehensive Health Check-up Packages"
                   className="w-full h-full object-cover"
                 />
@@ -432,7 +432,7 @@ export default function Home() {
             <div className="bg-white rounded-lg shadow-sm border border-gray-100 overflow-hidden">
               <div className="aspect-[4/3] relative overflow-hidden">
                 <img 
-                  src="/assets/dialysis-services.jpg" 
+                  src="/assets/image12.jpeg" 
                   alt="Dialysis Services"
                   className="w-full h-full object-cover"
                 />
@@ -451,7 +451,7 @@ export default function Home() {
             <div className="bg-white rounded-lg shadow-sm border border-gray-100 overflow-hidden">
               <div className="aspect-[4/3] relative overflow-hidden">
                 <img 
-                  src="/assets/anc-clinic.jpg" 
+                  src="/assets/image8.jpeg" 
                   alt="ANC Clinic"
                   className="w-full h-full object-cover"
                 />
@@ -470,7 +470,7 @@ export default function Home() {
             <div className="bg-white rounded-lg shadow-sm border border-gray-100 overflow-hidden">
               <div className="aspect-[4/3] relative overflow-hidden">
                 <img 
-                  src="/assets/ambulance.jpg" 
+                  src="/assets/image3.jpeg" 
                   alt="Ambulance Services"
                   className="w-full h-full object-cover"
                 />

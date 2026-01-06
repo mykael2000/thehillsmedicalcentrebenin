@@ -6,7 +6,7 @@ export default function CTA() {
   return (
     <section
       className="relative py-16 sm:py-20 bg-cover bg-center"
-      style={{ backgroundImage: "url('/assets/hospital-front.jpg')" }}
+      style={{ backgroundImage: "url('/assets/image1.jpeg')" }}
     >
       <div className="absolute inset-0 bg-black/80"></div>
       <div className="relative z-10 mx-auto px-6 lg:px-8" style={{ maxWidth: '1428px' }}>
