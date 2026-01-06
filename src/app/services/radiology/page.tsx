@@ -84,7 +84,7 @@ export default function Radiology() {
             <div className="relative">
               <div className="aspect-[4/3] relative rounded-2xl overflow-hidden">
                 <Image
-                  src="/assets/radiology.jpg"
+                  src="/assets/image12.jpeg"
                   alt="Radiology Department"
                   fill
                   className="object-cover"

@@ -90,7 +90,7 @@ export default function CriticalEmergencyCare() {
             <div className="relative">
               <div className="aspect-[4/3] relative rounded-2xl overflow-hidden">
                 <Image
-                  src="/assets/ambulance.jpg"
+                  src="/assets/image3.jpeg"
                   alt="Emergency Department"
                   fill
                   className="object-cover"
